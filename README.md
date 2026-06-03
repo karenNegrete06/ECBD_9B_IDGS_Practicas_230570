@@ -1,1 +1,1 @@
-# ECBD_9B_IDGS_Practicas_230570
+# ECBD_9B_IDGS_Practicas_230570 - Karen Lizbeth Negrete Hernández

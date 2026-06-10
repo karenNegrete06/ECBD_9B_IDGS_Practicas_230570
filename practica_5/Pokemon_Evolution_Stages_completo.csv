@@ -804,3 +804,8 @@
 720,HoopaHoopa Confined,Psychic,Ghost,600,80,110,60,150,130,70,6,True,3
 720,HoopaHoopa Unbound,Psychic,Dark,680,80,160,60,170,130,80,6,True,3
 721,Volcanion,Fire,Water,600,80,110,120,130,90,70,6,True,3
+722,Magearna,Artificial,Fairy,600,80,95,115,130,115,65,7,True,1
+723,Type: Null,Artificial,,534,95,95,95,95,95,59,7,False,1
+724,Silvally,Artificial,,570,95,95,95,95,95,95,7,False,2
+725,Cosmog,Artificial,,200,43,29,31,29,31,37,7,True,1
+726,Cosmoem,Artificial,,400,43,29,131,29,131,37,7,True,2

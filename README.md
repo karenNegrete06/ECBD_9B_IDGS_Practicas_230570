@@ -33,6 +33,6 @@ Aquí tienes la tabla actualizada con las fechas agregadas:
 
 | No. | Descripción | Potenciador | Estado | Fecha |
 | --- | ----------- | ----------- | ------ | ----- |
-| 1 | Introducción al uso de Python en el Análisis de Datos | - | Pendiente | 28/05/2026 |
+| 1 | Introducción al uso de Python en el Análisis de Datos | 50 | Pendiente | 28/05/2026 |
 
 

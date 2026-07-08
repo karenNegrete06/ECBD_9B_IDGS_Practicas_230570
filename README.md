@@ -35,5 +35,5 @@ Aquí tienes la tabla actualizada con las fechas agregadas:
 | --- | ----------- | ----------- | ------ | ----- |
 | 1 | Introducción al uso de Python en el Análisis de Datos | 50 | Finalizado | 28/05/2026 |
 | 2 | Manejo de Mapas de Calor Georeferenciables en el Analisis EDA | 63 | Pendiente | 30/06/2026 |
-
+| 3 | Generación de Dataset de Pacientes con indicadores para clasificas y predecir Diabétes Puebla | Pendiente | Pendiente | 06/07/2026 |
 

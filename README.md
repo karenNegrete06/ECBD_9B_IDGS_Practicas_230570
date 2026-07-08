@@ -33,6 +33,7 @@ Aquí tienes la tabla actualizada con las fechas agregadas:
 
 | No. | Descripción | Potenciador | Estado | Fecha |
 | --- | ----------- | ----------- | ------ | ----- |
-| 1 | Introducción al uso de Python en el Análisis de Datos | 50 | Pendiente | 28/05/2026 |
+| 1 | Introducción al uso de Python en el Análisis de Datos | 50 | Finalizado | 28/05/2026 |
+| 2 | Manejo de Mapas de Calor Georeferenciables en el Analisis EDA | 63 | Pendiente | 30/06/2026 |
 
 

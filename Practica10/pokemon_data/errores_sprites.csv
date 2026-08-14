@@ -1,0 +1,10 @@
+ID,Name,Error
+848,Toxel,HTTPError: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/848.png
+850,Sizzlipede,HTTPError: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/850.png
+859,Impidimp,HTTPError: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/859.png
+865,Sirfetchd,HTTPError: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/865.png
+873,Frosmoth,HTTPError: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/873.png
+883,Arctovish,HTTPError: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/883.png
+904,Overqwil,HTTPError: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/904.png
+935,Charcadet,HTTPError: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/935.png
+944,Shroodle,HTTPError: 429 Client Error: Too Many Requests for url: https://raw.githubusercontent.com/PokeAPI/sprites/master/sprites/pokemon/944.png
